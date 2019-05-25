@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  wordpress:
+  - apiVersion: v1
+    appVersion: 5.2.1
+    created: 2019-05-25T06:50:32.850927884Z
+    description: This is for creating sample hel repo in gitlab
+    digest: 5063abff84534311ee0649ca4209e491735ad3c46490394b68156c964a856b99
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - wordpress-5.9.6.tgz
+    version: 5.9.6
+generated: 2019-05-25T06:50:32.848911418Z
